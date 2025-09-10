@@ -53,7 +53,7 @@ a{
 a:hover{
     background-color: #01305c;
 }
-@media (max-width:576px) {
+@media (max-width:800px) {
     body{
         background-color: aliceblue;
         color: #0571d3;
@@ -110,4 +110,5 @@ a:hover{
 }
 
 }
+
 
